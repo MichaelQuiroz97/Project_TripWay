@@ -1,0 +1,5 @@
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\Michael\Desktop\BETripWay\Capa_Modelo\bin\Debug\net8.0\CapaModelo.deps.json
+C:\Users\Michael\Desktop\BETripWay\Capa_Modelo\bin\Debug\net8.0\CapaModelo.dll
+C:\Users\Michael\Desktop\BETripWay\Capa_Modelo\bin\Debug\net8.0\CapaModelo.pdb
+C:\Users\Michael\Desktop\BETripWay\Capa_Modelo\obj\Debug\net8.0\CapaModelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\BETripWay\Capa_Modelo\obj\Debug\net8.0\CapaModelo.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\BETripWay\Capa_Modelo\obj\Debug\net8.0\CapaModelo.AssemblyInfo.cs
+C:\Users\Michael\Desktop\BETripWay\Capa_Modelo\obj\Debug\net8.0\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\BETripWay\Capa_Modelo\obj\Debug\net8.0\CapaModelo.dll
+C:\Users\Michael\Desktop\BETripWay\Capa_Modelo\obj\Debug\net8.0\refint\CapaModelo.dll
+C:\Users\Michael\Desktop\BETripWay\Capa_Modelo\obj\Debug\net8.0\CapaModelo.pdb
+C:\Users\Michael\Desktop\BETripWay\Capa_Modelo\obj\Debug\net8.0\ref\CapaModelo.dll
+C:\Users\Michael\Desktop\BETripWay\Capa_Modelo\obj\Debug\net8.0\CapaModelo.csproj.AssemblyReference.cache

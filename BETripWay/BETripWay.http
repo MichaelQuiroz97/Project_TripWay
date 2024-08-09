@@ -1,0 +1,6 @@
+@BETripWay_HostAddress = http://localhost:5031
+
+GET {{BETripWay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\bin\Debug\net8.0\Capa_Servicios.deps.json
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\bin\Debug\net8.0\Capa_Servicios.dll
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\bin\Debug\net8.0\Capa_Servicios.pdb
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\obj\Debug\net8.0\Capa_Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\obj\Debug\net8.0\Capa_Servicios.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\obj\Debug\net8.0\Capa_Servicios.AssemblyInfo.cs
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\obj\Debug\net8.0\Capa_Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\obj\Debug\net8.0\Capa_Servicios.dll
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\obj\Debug\net8.0\refint\Capa_Servicios.dll
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\obj\Debug\net8.0\Capa_Servicios.pdb
+C:\Users\Michael\Desktop\BETripWay\Capa_Servicios\obj\Debug\net8.0\ref\Capa_Servicios.dll

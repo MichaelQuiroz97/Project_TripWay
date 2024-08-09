@@ -1,0 +1,11 @@
+C:\Users\Michael\Desktop\BETripWay\Capa_Negocios\bin\Debug\net8.0\Capa_Negocios.deps.json
+C:\Users\Michael\Desktop\BETripWay\Capa_Negocios\bin\Debug\net8.0\Capa_Negocios.dll
+C:\Users\Michael\Desktop\BETripWay\Capa_Negocios\bin\Debug\net8.0\Capa_Negocios.pdb
+C:\Users\Michael\Desktop\BETripWay\Capa_Negocios\obj\Debug\net8.0\Capa_Negocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\BETripWay\Capa_Negocios\obj\Debug\net8.0\Capa_Negocios.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\BETripWay\Capa_Negocios\obj\Debug\net8.0\Capa_Negocios.AssemblyInfo.cs
+C:\Users\Michael\Desktop\BETripWay\Capa_Negocios\obj\Debug\net8.0\Capa_Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\BETripWay\Capa_Negocios\obj\Debug\net8.0\Capa_Negocios.dll
+C:\Users\Michael\Desktop\BETripWay\Capa_Negocios\obj\Debug\net8.0\refint\Capa_Negocios.dll
+C:\Users\Michael\Desktop\BETripWay\Capa_Negocios\obj\Debug\net8.0\Capa_Negocios.pdb
+C:\Users\Michael\Desktop\BETripWay\Capa_Negocios\obj\Debug\net8.0\ref\Capa_Negocios.dll
